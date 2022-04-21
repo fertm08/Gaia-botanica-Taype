@@ -1,0 +1,106 @@
+*{
+    margin: 0%;
+    padding: 0px;
+}
+.head{
+    background-image: url(../imagenes/banner-g549241ff1_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 240px;
+}
+.mainlogo{
+    height: 96px;
+    width: 400px;
+    font-size: 80px;
+    color: rgb(136, 102, 28);
+    background-color: rgba(26, 235, 106, 0.432);
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    margin-left: 300px;
+    border: 1px solid greenyellow;
+    margin-left: 500px;
+}
+    .bar{
+        color: rgba(180, 45, 214, 0.753);
+        font-size: 22px;
+        font-family: 'Lobster', cursive;
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: rgb(136, 0, 163);
+        text-transform: uppercase;
+}
+    .tiempo{
+        float: right;
+    }
+    .principal{
+    background-image: url(../imagenes/leaves-gebba8ed0c_1920.png);
+    }
+    .galeria{
+    font-size: 35px;
+    color: purple;
+    text-transform: uppercase;
+    font-family: 'Lobster', cursive;
+    font-weight: bolder;
+    text-align: center;
+    border: 2px solid rgba(223, 50, 223, 0.788);
+    border-radius: 30%;
+    }
+    .plant1{
+        height: 275px;
+        width: 300px;
+        padding-left: 5px;
+    }
+    .plant2{
+        height: 275px;
+        width: 300px;
+    }
+    .plant3{
+        height: 275px;
+        width: 300px;
+    }
+    .plant4{
+        height: 275px;
+        width: 300px;
+    }
+    .plant5{
+        height: 275px;
+        width: 300px;
+    }
+    .plant6{
+    padding-left: 5px;
+    }
+    .plant7{
+    padding-left: 5px;
+    }
+    .plant8{
+    padding-left: 5px;
+    }
+    .plant9{
+    height: 450px;
+    }
+    .plant10{
+    height: 450px;
+    width: 360px;
+    padding-left: 40px;
+    }
+    .pie{
+        background-color: rgba(207, 23, 207, 0.459);
+        background-image: url(../imagenes/ornament.png);
+        background-size: cover;
+        background-position: center ;
+    }
+    .pie__sub{
+        color: black;
+        font-size: small;
+        text-decoration: overline;
+    }
+    .pie i{
+        float: left;
+        padding-right: 20px;
+        color: rgb(109, 44, 129);
+        font-size: 20px;
+    }
+    .pie a i{
+        float: right;
+    }
